@@ -39,17 +39,18 @@ This project aims to perform **sentiment analysis** on Amazon's **Electronics** 
 
 ## 📈 Visualizations
 The project generates insightful charts to better understand customer reviews:
-1. **Sentiment Distribution** (`Sentiment-Distribution.png`)
-2. **Top 10 Most Active Users** (`Top_10_Active_users.png`)
-3. **Top 10 Highly Rated Products** (`Top_10_products.png`)
-4. **Top 10 Most Reviewed Products** (`Top_reviewed_products.png`)
-5. **Average Rating Trend Over Time** (`Avg_rating_trend.png`)
+![Sentiment Distribution](Sentiment-Distribution.png)
+![Top 10 Active Users](Top_10_Active_users.png)
+![Top 10 Highly Rated Products](Top_10_products.png)
+![Top 10 Most Reviewed Products](Top_reviewed_products.png)
+![Average Rating Trend](Avg_rating_trend.png)
+
 
 ## 🚀 Running the Project
 To run this project on your local machine:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-amazon.git
+   git clone https://github.com/Daniyal-DS/Sentiment-Analysis-on-Customer-Reviews
    ```
 2. Install the required dependencies:
    ```bash
